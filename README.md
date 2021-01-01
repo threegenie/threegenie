@@ -16,6 +16,8 @@
 
 <h1 align="center">
 ✨ where you can find me ✨
+   <p align="center"><br/>
   instagram : @three_geniesss
   tistory : https://threegenie.tistory.com/
-
+</p>
+</h1>
