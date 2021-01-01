@@ -1,5 +1,4 @@
-<h1 align="center"> 🤩 hello, I'm Sejin 🤩 </h1>
-<h3 align="center">🚀 wanna be data scientist 🚀</h3>
+### 🤩 hello, I'm Sejin 🤩 
 
 ### 💻 my favorite stack:
 - Python
