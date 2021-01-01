@@ -12,6 +12,7 @@
 - Studied at Hankuk University of Foreign Studies 
 - Major : Interpretation and Translation for International Trade and Relations in English-Speaking Areas & Software Convergence
 - HUFS Likelion 8th
+- interested in computer vision and machine learning
 
 ### ✨ where you can find me ✨
 - instagram : @three_geniesss
