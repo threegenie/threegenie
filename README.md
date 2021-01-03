@@ -1,4 +1,4 @@
-### 🤩 hello, I'm Sejin 🤩 
+### 🤩 Hello, I'm Sejin 🤩 
 
 ### 💻 my favorite stack:
 - Python
