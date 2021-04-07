@@ -3,9 +3,8 @@
 ### 💻 My favorite stack:
 - Python
 - C & C++
-- HTML & CSS
 - OpenCV
-- Django
+
 
 ### 👩🏻 A little about myself:
 - I'm studying data science using pandas
