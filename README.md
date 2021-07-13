@@ -9,7 +9,7 @@
 <div align="center">
   <h3> 💙Languages and Tools💙 </h3>
   
-<img src="https://img.shields.io/badge/Python-04009A?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-2541B2?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Tensorflow-FF7600?style=flat-square&logo=Tensorflow&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> 
