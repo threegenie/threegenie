@@ -18,4 +18,5 @@
 
 ### ✨ Where you can find me ✨
 - https://threegenie.oopy.io/
+- www.linkedin.com/in/threegenie
 
