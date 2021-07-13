@@ -17,5 +17,5 @@
 
 
 ### ✨ Where you can find me ✨
-- Instagram : @three_geniesss
+- https://threegenie.oopy.io/
 
