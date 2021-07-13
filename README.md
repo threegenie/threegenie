@@ -19,5 +19,5 @@
 ### ✨ Where you can find me ✨
 - https://threegenie.oopy.io/
 - www.linkedin.com/in/threegenie
-- <a href="www.linkedin.com/in/threegenie"><img src="https://img.shields.io/badge/Linkdin-2978B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>&nbsp 
+- <a href="www.linkedin.com/in/threegenie"><img src="https://img.shields.io/badge/Linkdin-2978B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 
