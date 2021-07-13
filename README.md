@@ -1,18 +1,11 @@
+<div align="center">
 ### 💙 Hello, I'm Sejin 💙
 
-<div align="center">
-
-     [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/threegenie/)](https://www.linkedin.com/in/threegenie/)
-     [![OOPY Badge](https://img.shields.io/badge/Resume-890596?style=flat-square&logo=Riseup&logoColor=white&link=https://threegenie.oopy.io/)](https://threegenie.oopy.io/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/threegenie/)](https://www.linkedin.com/in/threegenie/)
+[![OOPY Badge](https://img.shields.io/badge/Resume-890596?style=flat-square&logo=Riseup&logoColor=white&link=https://threegenie.oopy.io/)](https://threegenie.oopy.io/)
+     
   </div>
-  
-  <br />
-  <div align="center">
 
-  p
-  
-  <br />
-<div align="center">
   
   <h3>💙Languages and Tools💙</h3>
   
