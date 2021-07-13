@@ -7,7 +7,7 @@
   </div>
 
 <div align="center">
-  <h3> 💙Languages and Tools💙 </h3>
+  <h3> 💙 Stack 💙 </h3>
   
 <img src="https://img.shields.io/badge/Python-2541B2?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Tensorflow-FF7600?style=flat-square&logo=Tensorflow&logoColor=white"/></a> 
