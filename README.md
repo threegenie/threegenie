@@ -2,7 +2,7 @@
      <h3> 💙 Hello, I'm Sejin 💙 </h3>
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/threegenie/)](https://www.linkedin.com/in/threegenie/) -->
-[![OOPY Badge](https://img.shields.io/badge/Resume-890596?style=flat-square&logo=Riseup&logoColor=white&link=https://threegenie.oopy.io/)](https://threegenie.oopy.io/)
+[![OOPY Badge](https://img.shields.io/badge/Resume-890596?style=flat-square&logo=Riseup&logoColor=white&link=https://chip-curio-011.notion.site/Sejin-0240eecbd5ee4d52859b974ee28d2367)](https://chip-curio-011.notion.site/Sejin-0240eecbd5ee4d52859b974ee28d2367)
      
   </div>
 
