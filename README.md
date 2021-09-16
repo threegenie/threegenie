@@ -19,3 +19,5 @@
 
   
   </div>
+
+[![Sejin Kim's Github Stats](https://github-readme-stats.vercel.app/api?username=threegenie&show_icons=true&theme=dracula)](https://github.com/threeggenie/github-readme-stats)
