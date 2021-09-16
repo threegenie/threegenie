@@ -21,7 +21,8 @@
   </div>
 
 
-<div align="center">
+<div align="center"; float:left;>
+
 <details>
 <summary> Github Stats 📊 </summary>
 <div markdown="1">       
@@ -32,12 +33,12 @@
 </details>
   </div>
   
-<div align="center">
+<div align="center";float:left;>
 <details>
 <summary> Most Used Languages 💁🏻‍♀️ </summary>
 <div markdown="1">       
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=threegenie&layout-compact&theme=buefy)](https://github.com/threegenie)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=threegenie&theme=buefy)](https://github.com/threegenie)
 
 </div>
 </details>
