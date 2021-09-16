@@ -20,8 +20,8 @@
   
   </div>
 
-[![Sejin Kim's Github Stats](https://github-readme-stats.vercel.app/api?username=threegenie&show_icons=true&theme=dracula)](https://github.com/threeggenie/github-readme-stats)
 
+<div align="center">
 <details>
 <summary>Github Stats</summary>
 <div markdown="1">       
@@ -30,3 +30,4 @@
 
 </div>
 </details>
+  </div>
