@@ -21,7 +21,7 @@
   </div>
 
 
-<div align="center"; float:left;>
+<!-- <div align="center"; float:left;>
 
 <details>
 <summary> Github Stats 📊 </summary>
@@ -42,4 +42,12 @@
 
 </div>
 </details>
-  </div>
+  </div> -->
+<!-- 
+
+*** GITHUB STATS SECTION ***
+
+
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=threegenie&hide_border=true&show_icons=true&theme=buefy" />
+
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=threegenie&hide_border=true&theme=buefy" />
