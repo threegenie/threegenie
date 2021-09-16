@@ -23,7 +23,7 @@
 
 <div align="center">
 <details>
-<summary>Github Stats</summary>
+<summary><h3> 💙 Github Stats 💙 </h3></summary>
 <div markdown="1">       
 
 [![Sejin Kim's Github Stats](https://github-readme-stats.vercel.app/api?username=threegenie&show_icons=true&theme=dracula)](https://github.com/threegenie/github-readme-stats)
@@ -34,7 +34,7 @@
   
 <div align="center">
 <details>
-<summary>Most Used Languages</summary>
+<summary><h3> 💙 Most Used Languages 💙 </h3></summary>
 <div markdown="1">       
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=threegenie&layout-compact&theme=dracula)](https://github.com/threegenie)
