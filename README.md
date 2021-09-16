@@ -1,3 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=waving)
+
+
+
 <div align="center">
      <h3> 💙 Hello, I'm Sejin 💙 </h3>
 
@@ -20,8 +24,7 @@
   
   </div>
 
-
-<!-- <div align="center"; float:left;>
+<div align="center"; float:left;>
 
 <details>
 <summary> Github Stats 📊 </summary>
@@ -32,22 +35,19 @@
 </div>
 </details>
   </div>
-  
+
 <div align="center";float:left;>
 <details>
 <summary> Most Used Languages 💁🏻‍♀️ </summary>
 <div markdown="1">       
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=threegenie&theme=buefy)](https://github.com/threegenie)
+     
+
 
 </div>
 </details>
-  </div> -->
-<!-- 
+  </div> 
 
-*** GITHUB STATS SECTION ***
-
-
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=threegenie&hide_border=true&show_icons=true&theme=buefy" />
-
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=threegenie&hide_border=true&theme=buefy" />
+<br></br>
+![footer](https://capsule-render.vercel.app/api?type=waving&reversal=true)
