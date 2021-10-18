@@ -7,6 +7,7 @@
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/threegenie/)](https://www.linkedin.com/in/threegenie/) -->
 [![OOPY Badge](https://img.shields.io/badge/Resume-890596?style=flat-square&logo=Riseup&logoColor=white&link=https://chip-curio-011.notion.site/Sejin-0240eecbd5ee4d52859b974ee28d2367)](https://chip-curio-011.notion.site/Sejin-0240eecbd5ee4d52859b974ee28d2367)
+[![Tistory Badge](https://img.shields.io/badge/Blog-E63E6D?style=flat-square&logo=Blogger&logoColor=white&link=https://threegenie.tistory.com/)](https://threegenie.tistory.com/)
      
   </div>
 
