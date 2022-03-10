@@ -5,9 +5,10 @@
 <div align="center">
      <h3> 💙 Hello, I'm Sejin 💙 </h3>
 
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/threegenie/)](https://www.linkedin.com/in/threegenie/) -->
-[![OOPY Badge](https://img.shields.io/badge/Resume-890596?style=flat-square&logo=Riseup&logoColor=white&link=https://threegenie.notion.site/Sejin-Kim-0240eecbd5ee4d52859b974ee28d2367)](https://threegenie.notion.site/Sejin-Kim-0240eecbd5ee4d52859b974ee28d2367)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/threegenie/)](https://www.linkedin.com/in/threegenie/)
 [![Tistory Badge](https://img.shields.io/badge/Blog-E63E6D?style=flat-square&logo=Blogger&logoColor=white&link=https://threegenie.tistory.com/)](https://threegenie.tistory.com/)
+<!-- [![OOPY Badge](https://img.shields.io/badge/Resume-890596?style=flat-square&logo=Riseup&logoColor=white&link=https://threegenie.notion.site/Sejin-Kim-0240eecbd5ee4d52859b974ee28d2367)](https://threegenie.notion.site/Sejin-Kim-0240eecbd5ee4d52859b974ee28d2367) -->
+
      
   </div>
 
