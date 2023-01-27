@@ -1,19 +1,19 @@
-![header](https://capsule-render.vercel.app/api?type=waving)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving) -->
 
 
 
-<div align="center">
-     <h3> 💙 Hello, I'm Sejin 💙 </h3>
+<!-- <div align="center"> -->
+<h4> 💙 Hello, I'm Sejin 💙 </h4>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/threegenie/)](https://www.linkedin.com/in/threegenie/)
 [![Tistory Badge](https://img.shields.io/badge/Blog-E63E6D?style=flat-square&logo=Blogger&logoColor=white&link=https://threegenie.tistory.com/)](https://threegenie.tistory.com/)
 <!-- [![OOPY Badge](https://img.shields.io/badge/Resume-890596?style=flat-square&logo=Riseup&logoColor=white&link=https://threegenie.notion.site/Sejin-Kim-0240eecbd5ee4d52859b974ee28d2367)](https://threegenie.notion.site/Sejin-Kim-0240eecbd5ee4d52859b974ee28d2367) -->
 
      
-  </div>
+<!--   </div> -->
 
-<div align="center">
-  <h3> 💙 Stack 💙 </h3>
+<!-- <div align="center"> -->
+  <h4> 💙 Stack 💙 </h4>
   
 <img src="https://img.shields.io/badge/Python-2541B2?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Tensorflow-FF7600?style=flat-square&logo=Tensorflow&logoColor=white"/></a> 
@@ -24,9 +24,9 @@
 <img src="https://img.shields.io/badge/C/C++-C490E4?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> 
 
   
-  </div>
+<!--   </div> -->
 
-<div align="center"; float:left;>
+<!-- <div align="center"; float:left;> -->
 
 <details>
 <summary> Github Stats 📊 </summary>
@@ -38,14 +38,14 @@
 </details>
   </div>
 
-<div align="center";float:left;>
+<!-- <div align="center";float:left;> -->
 <details>
 <summary> Most Used Languages 💁🏻‍♀️ </summary>
 <div markdown="1">       
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=threegenie&theme=buefy)](https://github.com/threegenie)
                               
-</div>
+<!-- </div> -->
 </details>
   </div> 
 
@@ -57,5 +57,5 @@
     
 </div>    -->
      
-<br></br>
-![footer](https://capsule-render.vercel.app/api?type=waving&reversal=true)
+<!-- <br></br> -->
+<!-- ![footer](https://capsule-render.vercel.app/api?type=waving&reversal=true) -->
